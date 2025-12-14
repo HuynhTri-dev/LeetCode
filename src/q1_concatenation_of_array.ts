@@ -52,5 +52,4 @@ function getConcatenation4(nums: number[]): number[] {
   return result;
 }
 
-const nums = [1, 2, 1];
-console.log(getConcatenation2(nums));
+console.log(getConcatenation2([1, 2, 1]));
